@@ -1,4 +1,4 @@
-**Scrabble Game - Web Development Project**
+# **Scrabble Game - Web Development Project**
 
 This project is a web-based implementation of the classic word game Scrabble, built using HTML, CSS, JavaScript, and a Node.js backend.
 
